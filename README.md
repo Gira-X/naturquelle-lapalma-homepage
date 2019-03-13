@@ -24,4 +24,4 @@ The vector icons (github, facebook, email, phone) are all from www.materialdesig
 
 We feel those principles have to go hand-in-hand, so we strive to create everything as open source as possible.
 
-Also, hosting the website on GitHub Pages is a way for us to save money on web-hosting solutions.
+Also, 'hosting' the website on GitHub Pages is a way for us to save money on web-hosting solutions.
