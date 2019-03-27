@@ -1,0 +1,393 @@
+/*
+font-face taken from GitHub Help pages.
+	* The url("...") link is dropped here
+*/
+@font-face {
+	font-family: InterUI;
+	font-style: normal;
+	font-weight: 400;
+	src: local("InterUI"), local("InterUI-Regular")
+}
+
+@font-face {
+	font-family: InterUI;
+	font-style: normal;
+	font-weight: 500;
+	src: local("InterUI Medium"), local("InterUI-Medium")
+}
+
+/*
+font sizes with weights are all taken from GitHub Help pages
+*/
+h1, h2, h3, h4, h5, h6 {
+	font-family: InterUI, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	font-weight: 500;
+	margin-top: 32px;
+	margin-bottom: 16px;
+	line-height: 1.25;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	font-size: 2em;
+}
+
+h2 {
+	padding-bottom: 0.3em;
+	font-size: 1.5em;
+}
+
+h3 {
+	font-size: 1.25em
+}
+
+h4 {
+	font-size: 1em
+}
+
+h5 {
+	font-size: 0.875em
+}
+
+h6 {
+	font-size: 0.85em;
+	color: #6a737d
+}
+
+p, li {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	font-size: 16px;
+	line-height: 1.5;
+	word-wrap: break-word;
+	margin-bottom: 16px;
+}
+
+body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	background-color: white;
+	color: #333;
+	margin: 0;
+}
+
+nav {
+	max-width: 800px;
+	font-size: 16px;
+	font-weight: 200;
+	line-height: 1;
+	margin: 15px auto 35px;
+}
+
+#navGrid {
+	color: white;
+}
+
+.navCell, .navCellActive {
+	display: inline;
+	margin: 0 auto;
+}
+
+.navCell a {
+	color: white;
+	background-color: #409c2b;
+	display: inline-block;
+	padding: 17px;
+	margin: 10px;
+	border-radius: 10px;
+	text-decoration: none;
+}
+
+.navCell a:hover {
+	background-color: #327922;
+}
+
+.navCellActive a {
+	color: white;
+	font-weight: 400;
+	background-color: #327922;
+	display: inline-block;
+	padding: 17px;
+	margin: 10px;
+	border-radius: 10px;
+	text-decoration: none;
+}
+
+#werwirsind h1 {
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+#werwirsind h4 {
+	margin-top: 12px;
+	margin-bottom: 20px;
+}
+
+.noMarginTop {
+	margin-top: 0 !important;
+}
+
+#werwirsind img {
+	float: right;
+	margin-left: 25px;
+	margin-top: 60px;
+	width: 300px;
+	border-radius: 20px;
+}
+
+#seminareText {
+	padding: 0;
+}
+
+#seminareButtons h1 {
+	padding-top: 0;
+}
+
+#seminareButtons h4 {
+	padding-top: 0;
+}
+
+#seminareButtons p {
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#seminareButtons a {
+	padding: 20px;
+	color: black;
+	display: block;
+	text-align: center;
+	border-radius: 30px;
+	margin-bottom: 60px;
+}
+
+#seminareButtons a:hover {
+	background-color: rgba(50, 121, 34, 0.26);
+}
+
+#seminareButtons a img {
+	width: 90%;
+	margin: 0 auto 30px;
+	display: block;
+	border-radius: 30px;
+}
+
+#seminar img {
+	width: 90%;
+	margin: 0 auto 30px;
+	display: block;
+	border-radius: 30px;
+}
+
+#seminarBlock h1 {
+	padding-top: 0;
+}
+
+#seminarBlock {
+	color: black;
+	display: block;
+	text-align: center;
+}
+
+#seminarBlockAnmeldung h1 {
+	padding-top: 30px;
+}
+
+#seminarBlockAnmeldung h4 {
+	text-align: center;
+}
+
+#seminarBlockAnmeldung {
+	color: black;
+	display: block;
+	height: 300px;
+	text-align: center;
+}
+
+#anmeldung h1 {
+	margin-top: 50px;
+	color: white;
+	background-color: #327922;
+	padding: 20px;
+	border-radius: 20px;
+}
+
+#anmeldung h1:hover {
+	background-color: #316b21;
+}
+
+#anmeldung {
+	margin-top: 60px;
+}
+
+#impressionen {
+	max-width: 800px;
+	width: 100%;
+	padding: 0;
+}
+
+#impressionen img {
+	width: 100%;
+}
+
+#bgHeader {
+	background-image: url("../img/natura.jpg");
+	background-size: cover;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	margin-bottom: 0;
+	color: white;
+	text-align: center;
+}
+
+#bgHeader #logo {
+	opacity: 0.85;
+	width: 75%;
+	max-height: 200px;
+}
+
+#bgHeader #logo:hover {
+	opacity: 1.0;
+}
+
+article {
+	max-width: 800px;
+	margin: 0 auto;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+
+article a {
+	color: #369a43;
+	text-decoration: solid;
+	-webkit-transition: color 0.3s ease;
+	-moz-transition: color 0.3s ease;
+	-o-transition: color 0.3s ease;
+	transition: color 0.3s ease;
+}
+
+article a:hover {
+	color: #31632e;
+	-webkit-transition: color 0.3s ease;
+	-moz-transition: color 0.3s ease;
+	-o-transition: color 0.3s ease;
+	transition: color 0.3s ease;
+}
+
+footer {
+	margin-top: 45px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: #497225;
+	color: white;
+}
+
+footer > div {
+	margin: 0 auto;
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	color: white;
+}
+
+footer div a {
+	margin-left: 25px;
+	margin-right: 25px;
+	border-radius: 20px;
+	display: block;
+	text-decoration: none;
+	color: white;
+}
+
+footer div a:hover {
+	background-color: #0e5519;
+}
+
+footer img {
+	width: 28px;
+	height: 28px;
+	margin-left: 16px;
+	margin-top: 16px;
+	float: left;
+}
+
+footer p {
+	font-weight: 200;
+	font-size: 16px;
+	margin-top: 18px;
+	margin-left: 16px;
+	display: inline-block;
+}
+
+.footerCell {
+	width: 100%;
+	min-height: 50px;
+}
+
+@media (min-width: 800px) {
+
+	#bgHeader #logo {
+		width: initial;
+		height: 200px;
+	}
+
+	#navGrid {
+		color: white;
+		display: flex;
+	}
+
+	.footerCell {
+		width: 50%;
+	}
+
+	footer > div {
+		margin: 0 auto;
+		max-width: 800px;
+	}
+
+	footer div a {
+		margin: 0;
+	}
+
+	#seminareButtons h1 {
+		padding-top: 50px;
+	}
+
+	#seminareButtons h4 {
+		padding-top: 15px;
+	}
+
+	#seminareButtons a {
+		padding: 0;
+		height: 300px;
+		border-radius: 30px;
+	}
+
+	#seminareButtons a img {
+		float: left;
+		width: 50%;
+	}
+
+	#seminar img {
+		float: left;
+		width: 50%;
+		margin: 0 auto 30px;
+		display: block;
+		border-radius: 30px;
+	}
+
+	#seminarBlock h1 {
+		padding-top: 60px;
+	}
+
+	#seminarBlock h4 {
+		text-align: center;
+	}
+
+	#seminarBlock {
+		color: black;
+		display: block;
+		height: 300px;
+		text-align: center;
+	}
+}
+

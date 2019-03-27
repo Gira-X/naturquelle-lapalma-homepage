@@ -1,0 +1,42 @@
+doctype html
+head(lang="de")
+    title Seminare - NaturQuelle La Palma
+    include includes/head
+body
+    include includes/header
+    nav
+        div#navGrid
+            div.navCell: a(href="wer-wir-sind.html") Wer wir sind
+            div.navCellActive: a(href="angebote.html") Angebote
+            div.navCell: a(href="impressionen.html") Impressionen
+            div.navCell: a(href="mithilfe.html") Mithilfe
+            div.navCell: a(href="empfehlungen.html") Empfehlungen
+article#seminare
+    #seminareButtons
+        a(href="natur-sein.html")
+            div
+                img(src="img/natur-sein.jpg")
+                h1 Natur & Sein
+                p.
+                    Zurück zur Natur
+                    <br>Zurück zu meinem wahren Ich
+                h4: b 13. - 23. Mai 2019
+        //a(href="frohkost.html")
+            div
+                img(src="img/smoothie.jpg")
+                h1 (F)rohkost :)
+                p Roh Essen & froh Sein
+        //a(href="yin-yoga.html")
+            div
+                img(src="img/yin-yoga.jpg")
+                h1 Yin Yoga & Meditation
+                p Loslassen & frei Sein
+    #seminareText
+        h1 Individuelles Terminangebot
+        p.
+            Auch ausserhalb der angebotenen Terminzeiten bieten wir ein individuelles Programm
+            an.
+            Also wenn du Interesse hast, ein Wochenende oder ein paar Tage Zeit mit uns
+            zu verbringen, schreib uns doch mal an.
+            <br><br>Bestimmt finden wir einen geeigneten Termin!
+include includes/footer
