@@ -4,7 +4,7 @@ This is the German website for our permaculture project in Las Tricias, La Palma
 
 #### Short link
 
-You can use this link to quickly access the website: [TODO]()
+You can use this link to quickly access the website: https://bit.ly/naturquelle
 
 Because the Github docs link is very long by itself, we use a URL shortening service.
 
@@ -22,6 +22,7 @@ The vector icons (github, facebook, email, phone) are all from www.materialdesig
 
 #### Open Source and Permaculture 
 
-We feel those principles have to go hand-in-hand, so we strive to create everything as open source as possible.
+We feel those principles have to go hand-in-hand, so we strive to create everything as
+open source as possible.
 
 Also, 'hosting' the website on GitHub Pages is a way for us to save money on web-hosting solutions.
