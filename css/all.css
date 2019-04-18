@@ -70,7 +70,7 @@ body {
 }
 
 nav {
-	max-width: 800px;
+	max-width: 1000px;
 	font-size: 16px;
 	line-height: 1;
 	margin: 15px auto 35px;
@@ -333,11 +333,6 @@ footer p {
 		height: 200px;
 	}
 
-	#navGrid {
-		color: white;
-		display: flex;
-	}
-
 	.footerCell {
 		width: 50%;
 	}
@@ -394,3 +389,10 @@ footer p {
 	}
 }
 
+@media (min-width: 1000px) {
+
+	#navGrid {
+		color: white;
+		display: flex;
+	}
+}
