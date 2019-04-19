@@ -99,6 +99,25 @@ nav {
 	background-color: #327922;
 }
 
+.largeImg {
+	width: 100%
+}
+
+.flexGallery {
+}
+.flexGalleryGrid {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+.flexGalleryCell {
+	width: 50%
+}
+.flexGalleryCell img {
+	max-width: 100%;
+	display: block;
+}
+
 .navCellActive a {
 	color: white;
 	font-weight: 400;
@@ -132,7 +151,7 @@ nav {
 	border-radius: 20px;
 }
 
-#therapieformen img {
+.floatedRightImg {
 	float: right;
 	margin-left: 25px;
 	width: 300px;
