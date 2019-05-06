@@ -20,9 +20,9 @@ The font in the top logo is Gabriola.
 
 The vector icons (github, facebook, email, phone) are all from www.materialdesignicons.com
 
-#### Open Source and Permaculture 
+#### Open Source and Permaculture
 
 We feel those principles have to go hand-in-hand, so we strive to create everything as
 open source as possible.
 
-Also, 'hosting' the website on GitHub Pages is a way for us to save money on web-hosting solutions.
+'Hosting' the website on GitHub Pages is a way for us to save money on web-hosting solutions.
