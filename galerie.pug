@@ -1,6 +1,8 @@
 doctype html
 head(lang="de")
     title Galerie - NaturQuelle La Palma
+    link(href='https://cdn.rawgit.com/sachinchoolur/lightgallery.js/master/dist/css/lightgallery.css', rel='stylesheet')
+    link(href="https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.7.0/css/justifiedGallery.min.css", rel="stylesheet")
     include includes/head
 body
     include includes/header
@@ -14,43 +16,58 @@ body
             div.navCell: a(href="heilrezepte.html") Heilrezepte
             div.navCell: a(href="therapieformen.html") Therapieformen
 article#impressionen
-    h2 Wir sind's! Die Höhlenmenschen.
-    a(href="img/galerie/us-three.jpg")
-        img(src="img/galerie/us-three.jpg")
-    a(href="img/galerie/stairs.jpg")
-        img(src="img/galerie/stairs.jpg")
-    a(href="img/galerie/banana-mandarin.jpg")
-        img(src="img/galerie/banana-mandarin.jpg")
-    a(href="img/mandala1.jpg")
-        img(src="img/mandala1.jpg")
-    a(href="img/mandala2.jpg")
-        img(src="img/mandala2.jpg")
-    a(href="img/galerie/woman.jpg")
-        img(src="img/galerie/woman.jpg")
-    a(href="img/galerie/lizards.jpg")
-        img(src="img/galerie/lizards.jpg")
-    h2 Das Ergebnis nach meiner Leber- Gallenblasenreinigung.
-    a(href="img/galerie/leber-gallen-reinigung-resultat.jpg")
-        img(src="img/galerie/leber-gallen-reinigung-resultat.jpg")
-    a(href="img/galerie/long-view-towards-witch-house.jpg")
-        img(src="img/galerie/long-view-towards-witch-house.jpg")
-    a(href="img/galerie/cliff.jpg")
-        img(src="img/galerie/cliff.jpg")
-    h2 Alicia bei der Holzkohle-Verarbeitung.
-    a(href="img/galerie/hard-work.jpg")
-        img(src="img/galerie/hard-work.jpg")
-    a(href="img/galerie/other-side.jpg")
-        img(src="img/galerie/other-side.jpg")
-    a(href="img/galerie/four-smoothies.jpg")
-        img(src="img/galerie/four-smoothies.jpg")
-    a(href="img/galerie/bananen-bluete.jpg")
-        img(src="img/galerie/bananen-bluete.jpg")
-    a(href="img/galerie/hoehle-ausblick.jpg")
-        img(src="img/galerie/hoehle-ausblick.jpg")
-    a(href="img/galerie/kaktusfeige-bluete.jpg")
-        img(src="img/galerie/kaktusfeige-bluete.jpg")
-    a(href="img/galerie/libelle-auf-kristall.jpg")
-        img(src="img/galerie/libelle-auf-kristall.jpg")
-    a(href="img/galerie/strelizie-bluete.jpg")
-        img(src="img/galerie/strelizie-bluete.jpg")
+    #lightgallery
+        a(href="img/galerie/strelizie-bluete.jpg")
+            img(src="img/galerie/thumbs/strelizie-bluete.jpg")
+
+        a(href="img/galerie/four-smoothies.jpg")
+            img(src="img/galerie/thumbs/four-smoothies.jpg")
+
+        a(href="img/galerie/long-view-towards-witch-house.jpg")
+            img(src="img/galerie/thumbs/long-view-towards-witch-house.jpg")
+
+        a(href="img/galerie/hoehle-ausblick.jpg")
+            img(src="img/galerie/thumbs/hoehle-ausblick.jpg")
+
+        a(href="img/galerie/kaktusfeige-bluete.jpg")
+            img(src="img/galerie/thumbs/kaktusfeige-bluete.jpg")
+
+        a(href="img/galerie/banana-mandarin.jpg")
+            img(src="img/galerie/thumbs/banana-mandarin.jpg")
+
+        a(href="img/galerie/libelle-auf-kristall.jpg")
+            img(src="img/galerie/thumbs/libelle-auf-kristall.jpg")
+
+        a(href="img/galerie/leber-gallen-reinigung-resultat.jpg" data-sub-html='<h4>Das Ergebnis nach meiner Leber- Gallenblasenreinigung</h4>')
+            img(alt="Das Ergebnis nach meiner Leber- Gallenblasenreinigung" src="img/galerie/thumbs/leber-gallen-reinigung-resultat.jpg")
+
+        a(href="img/galerie/lizards.jpg")
+            img(src="img/galerie/thumbs/lizards.jpg")
+
+        a(href="img/galerie/bananen-bluete.jpg")
+            img(src="img/galerie/thumbs/bananen-bluete.jpg")
+
+        a(href="img/galerie/other-side.jpg")
+            img(src="img/galerie/thumbs/other-side.jpg")
+
+        a(href="img/galerie/cliff.jpg")
+            img(src="img/galerie/thumbs/cliff.jpg")
+
+        a(href="img/galerie/woman.jpg")
+            img(src="img/galerie/thumbs/woman.jpg")
+
+        a(href="img/galerie/mandala1.jpg")
+            img(src="img/galerie/thumbs/mandala1.jpg")
+
+        a(href="img/galerie/mandala2.jpg")
+            img(src="img/galerie/thumbs/mandala2.jpg")
+
 include includes/footer
+// required for justifiedGallery and the lightgallery plugins
+script(src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js")
+script(src='https://cdn.rawgit.com/sachinchoolur/lightgallery.js/master/dist/js/lightgallery.js')
+script(src='https://cdn.rawgit.com/sachinchoolur/lg-fullscreen.js/master/dist/lg-fullscreen.js')
+script(src='https://cdn.rawgit.com/sachinchoolur/lg-zoom.js/master/dist/lg-zoom.js')
+script(src='https://cdn.rawgit.com/sachinchoolur/lg-thumbnail.js/master/dist/lg-thumbnail.js')
+script(src="https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.7.0/js/jquery.justifiedGallery.min.js")
+script(src="js/init-gallery.js")
