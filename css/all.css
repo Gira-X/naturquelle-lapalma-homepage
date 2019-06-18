@@ -269,6 +269,19 @@ nav {
 	text-align: center;
 }
 
+#therapieformen h1 {
+	margin-top: 2.5em;
+}
+
+.leftTableMargin {
+	padding-left: 2em;
+	padding-right: 1em;
+}
+
+.slightMarginTop {
+	margin-top: 3.5em;
+}
+
 #bgHeader {
 	background-image: url("../img/natura.jpg");
 	background-size: cover;
