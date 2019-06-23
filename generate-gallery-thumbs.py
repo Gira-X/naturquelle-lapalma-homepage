@@ -7,7 +7,7 @@ template = '''
 '''
 
 # needs to start and end with /
-dirs_to_process = ['/img/galerie/']
+dirs_to_process = ['/img/galerie/new/']
 
 cwd = os.getcwd()
 for d in dirs_to_process:
@@ -18,6 +18,7 @@ for d in dirs_to_process:
     files = [f for f in os.scandir(full_dir)
              if os.path.isfile(os.path.join(full_dir, f)) and
              f.name.endswith('.jpg')]
+    files = sorted(files, key=lambda x: x.name)
     for f in files:
         im = Image.open(f.path)
         im.thumbnail((350, 350))
