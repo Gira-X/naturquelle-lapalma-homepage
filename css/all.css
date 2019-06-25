@@ -282,6 +282,10 @@ nav {
 	margin-top: 3.5em;
 }
 
+.slightMarginBottom {
+	margin-bottom: 4em;
+}
+
 #bgHeader {
 	background-image: url("../img/natura.jpg");
 	background-size: cover;
