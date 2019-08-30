@@ -103,6 +103,29 @@ nav {
 	width: 100%
 }
 
+.mediumImg {
+	width: 75%;
+	display: block;
+	margin: 0 auto;
+}
+
+button {
+	background-color: #4CAF50;
+	border: none;
+	color: white;
+	cursor: pointer;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+button:hover {
+	background-color: #3c8540;
+}
+
+
 .flexGalleryGrid2x2 {
 	display: flex;
 	flex-wrap: wrap;
@@ -111,6 +134,10 @@ nav {
 
 .flexGalleryCell2x2 {
 	width: 50%
+}
+
+.flexGalleryCell2x2 a {
+	display: flex;
 }
 
 .flexGalleryCell2x2 img {
