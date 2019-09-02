@@ -137,7 +137,7 @@ button:hover {
 }
 
 .flexGalleryCell2x2 a {
-	display: flex;
+	display: grid;
 }
 
 .flexGalleryCell2x2 img {
