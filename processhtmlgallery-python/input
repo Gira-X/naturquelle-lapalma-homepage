@@ -1,0 +1,744 @@
+    h2 Entstehung
+    #gallery-entstehung
+
+        a(href="img/galerie/entstehung/1.JPG" data-sub-html="<h4>Reisernte - 01. Dezember 2017</h4>")
+            img(alt="Reisernte - 01. Dezember 2017" src="img/galerie/entstehung/thumbs/1.JPG")
+
+
+        a(href="img/galerie/entstehung/b.JPG" data-sub-html="<h4>03. Dezember 2017</h4>")
+            img(alt="03. Dezember 2017" src="img/galerie/entstehung/thumbs/b.JPG")
+
+
+        a(href="img/galerie/entstehung/c.JPG" data-sub-html="<h4>06. Dezember 2017</h4>")
+            img(alt="06. Dezember 2017" src="img/galerie/entstehung/thumbs/c.JPG")
+
+        a(href="img/galerie/entstehung/3IMG-20190602-WA0045.jpg" data-sub-html="<h4>Mulchmaterial</h4>")
+            img(alt="Mulchmaterial" src="img/galerie/entstehung/thumbs/3IMG-20190602-WA0045.jpg")
+
+
+        a(href="img/galerie/entstehung/CIMG6917.JPG" data-sub-html="<h4>Strohballen</h4>")
+            img(alt="Strohballen" src="img/galerie/entstehung/thumbs/CIMG6917.JPG")
+
+
+        a(href="img/galerie/entstehung/CIMG6926.JPG")
+            img(src="img/galerie/entstehung/thumbs/CIMG6926.JPG")
+
+
+        a(href="img/galerie/entstehung/CIMG6928.JPG" data-sub-html="<h4>CIMG6928.JPG</h4>")
+            img(alt="CIMG6928.JPG" src="img/galerie/entstehung/thumbs/CIMG6928.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3271.JPG" data-sub-html="<h4>Brunnenwasserteam - 18. Dezember 2017</h4>")
+            img(alt="Brunnenwasserteam - 18. Dezember 2017" src="img/galerie/entstehung/thumbs/IMG_3271.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3272.JPG" data-sub-html="<h4>IMG_3272.JPG - 18. Dezember 2017</h4>")
+            img(alt="IMG_3272.JPG - 18. Dezember 2017" src="img/galerie/entstehung/thumbs/IMG_3272.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3276.JPG" data-sub-html="<h4>IMG_3276.JPG - 18. Dezember 2017</h4>")
+            img(alt="IMG_3276.JPG - 18. Dezember 2017" src="img/galerie/entstehung/thumbs/IMG_3276.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3277.JPG" data-sub-html="<h4>IMG_3277.JPG - 18. Dezember 2017</h4>")
+            img(alt="IMG_3277.JPG - 18. Dezember 2017" src="img/galerie/entstehung/thumbs/IMG_3277.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3280.JPG" data-sub-html="<h4>IMG_3280.JPG - 18. Dezember 2017</h4>")
+            img(alt="IMG_3280.JPG - 18. Dezember 2017" src="img/galerie/entstehung/thumbs/IMG_3280.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3282.JPG" data-sub-html="<h4>IMG_3282.JPG - 18. Dezember 2017</h4>")
+            img(alt="IMG_3282.JPG - 18. Dezember 2017" src="img/galerie/entstehung/thumbs/IMG_3282.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3283.JPG" data-sub-html="<h4>IMG_3283.JPG - 18. Dezember 2017</h4>")
+            img(alt="IMG_3283.JPG - 18. Dezember 2017" src="img/galerie/entstehung/thumbs/IMG_3283.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3284.JPG" data-sub-html="<h4>IMG_3284.JPG - 18. Dezember 2017</h4>")
+            img(alt="IMG_3284.JPG - 18. Dezember 2017" src="img/galerie/entstehung/thumbs/IMG_3284.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3285.JPG" data-sub-html="<h4>IMG_3285.JPG - 18. Dezember 2017</h4>")
+            img(alt="IMG_3285.JPG - 18. Dezember 2017" src="img/galerie/entstehung/thumbs/IMG_3285.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3299.JPG" data-sub-html="<h4>Landformung - 05. Januar 2018</h4>")
+            img(alt="Landformung - 05. Januar 2018" src="img/galerie/entstehung/thumbs/IMG_3299.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3300.JPG" data-sub-html="<h4>IMG_3300.JPG - 05. Januar 2018</h4>")
+            img(alt="IMG_3300.JPG - 05. Januar 2018" src="img/galerie/entstehung/thumbs/IMG_3300.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3307.JPG" data-sub-html="<h4>IMG_3307.JPG - 16. Januar 2018</h4>")
+            img(alt="IMG_3307.JPG - 16. Januar 2018" src="img/galerie/entstehung/thumbs/IMG_3307.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3310.JPG" data-sub-html="<h4>IMG_3310.JPG - 16. Januar 2018</h4>")
+            img(alt="IMG_3310.JPG - 16. Januar 2018" src="img/galerie/entstehung/thumbs/IMG_3310.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3311.JPG" data-sub-html="<h4>IMG_3311.JPG - 16. Januar 2018</h4>")
+            img(alt="IMG_3311.JPG - 16. Januar 2018" src="img/galerie/entstehung/thumbs/IMG_3311.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3312.JPG" data-sub-html="<h4>IMG_3312.JPG - 16. Januar 2018</h4>")
+            img(alt="IMG_3312.JPG - 16. Januar 2018" src="img/galerie/entstehung/thumbs/IMG_3312.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3313.JPG" data-sub-html="<h4>IMG_3313.JPG - 16. Januar 2018</h4>")
+            img(alt="IMG_3313.JPG - 16. Januar 2018" src="img/galerie/entstehung/thumbs/IMG_3313.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3314.JPG" data-sub-html="<h4>IMG_3314.JPG - 16. Januar 2018</h4>")
+            img(alt="IMG_3314.JPG - 16. Januar 2018" src="img/galerie/entstehung/thumbs/IMG_3314.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3315.JPG" data-sub-html="<h4>Basiscamp - 16. Januar 2018</h4>")
+            img(alt="Basiscamp - 16. Januar 2018" src="img/galerie/entstehung/thumbs/IMG_3315.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3319.JPG" data-sub-html="<h4>IMG_3319.JPG - 22. Januar 2018</h4>")
+            img(alt="IMG_3319.JPG - 22. Januar 2018" src="img/galerie/entstehung/thumbs/IMG_3319.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3321.JPG" data-sub-html="<h4>IMG_3321.JPG - 22. Januar 2018</h4>")
+            img(alt="IMG_3321.JPG - 22. Januar 2018" src="img/galerie/entstehung/thumbs/IMG_3321.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3322.JPG" data-sub-html="<h4>IMG_3322.JPG - 22. Januar 2018</h4>")
+            img(alt="IMG_3322.JPG - 22. Januar 2018" src="img/galerie/entstehung/thumbs/IMG_3322.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3323.JPG" data-sub-html="<h4>IMG_3323.JPG - 22. Januar 2018</h4>")
+            img(alt="IMG_3323.JPG - 22. Januar 2018" src="img/galerie/entstehung/thumbs/IMG_3323.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3324.JPG" data-sub-html="<h4>IMG_3324.JPG - 22. Januar 2018</h4>")
+            img(alt="IMG_3324.JPG - 22. Januar 2018" src="img/galerie/entstehung/thumbs/IMG_3324.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3372.JPG" data-sub-html="<h4>IMG_3372.JPG - 04. Februar 2018</h4>")
+            img(alt="IMG_3372.JPG - 04. Februar 2018" src="img/galerie/entstehung/thumbs/IMG_3372.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3386.JPG" data-sub-html="<h4>IMG_3386.JPG - 07. Februar 2018</h4>")
+            img(alt="IMG_3386.JPG - 07. Februar 2018" src="img/galerie/entstehung/thumbs/IMG_3386.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3387.JPG" data-sub-html="<h4>IMG_3387.JPG - 07. Februar 2018</h4>")
+            img(alt="IMG_3387.JPG - 07. Februar 2018" src="img/galerie/entstehung/thumbs/IMG_3387.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3388.JPG" data-sub-html="<h4>IMG_3388.JPG - 07. Februar 2018</h4>")
+            img(alt="IMG_3388.JPG - 07. Februar 2018" src="img/galerie/entstehung/thumbs/IMG_3388.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3390.JPG" data-sub-html="<h4>IMG_3390.JPG - 07. Februar 2018</h4>")
+            img(alt="IMG_3390.JPG - 07. Februar 2018" src="img/galerie/entstehung/thumbs/IMG_3390.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3391.JPG" data-sub-html="<h4>IMG_3391.JPG - 07. Februar 2018</h4>")
+            img(alt="IMG_3391.JPG - 07. Februar 2018" src="img/galerie/entstehung/thumbs/IMG_3391.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3411.JPG" data-sub-html="<h4>IMG_3411.JPG - 10. Februar 2018</h4>")
+            img(alt="IMG_3411.JPG - 10. Februar 2018" src="img/galerie/entstehung/thumbs/IMG_3411.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3413.JPG" data-sub-html="<h4>IMG_3413.JPG - 10. Februar 2018</h4>")
+            img(alt="IMG_3413.JPG - 10. Februar 2018" src="img/galerie/entstehung/thumbs/IMG_3413.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3414.JPG" data-sub-html="<h4>IMG_3414.JPG - 10. Februar 2018</h4>")
+            img(alt="IMG_3414.JPG - 10. Februar 2018" src="img/galerie/entstehung/thumbs/IMG_3414.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3415.JPG" data-sub-html="<h4>IMG_3415.JPG - 10. Februar 2018</h4>")
+            img(alt="IMG_3415.JPG - 10. Februar 2018" src="img/galerie/entstehung/thumbs/IMG_3415.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3419.JPG" data-sub-html="<h4>IMG_3419.JPG - 10. Februar 2018</h4>")
+            img(alt="IMG_3419.JPG - 10. Februar 2018" src="img/galerie/entstehung/thumbs/IMG_3419.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3422.JPG" data-sub-html="<h4>IMG_3422.JPG - 10. Februar 2018</h4>")
+            img(alt="IMG_3422.JPG - 10. Februar 2018" src="img/galerie/entstehung/thumbs/IMG_3422.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3424.JPG" data-sub-html="<h4>IMG_3424.JPG - 17. Februar 2018</h4>")
+            img(alt="IMG_3424.JPG - 17. Februar 2018" src="img/galerie/entstehung/thumbs/IMG_3424.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3428.JPG" data-sub-html="<h4>IMG_3428.JPG - 19. Februar 2018</h4>")
+            img(alt="IMG_3428.JPG - 19. Februar 2018" src="img/galerie/entstehung/thumbs/IMG_3428.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3451.JPG" data-sub-html="<h4>IMG_3451.JPG - 27. Februar 2018</h4>")
+            img(alt="IMG_3451.JPG - 27. Februar 2018" src="img/galerie/entstehung/thumbs/IMG_3451.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3453.JPG" data-sub-html="<h4>IMG_3453.JPG - 27. Februar 2018</h4>")
+            img(alt="IMG_3453.JPG - 27. Februar 2018" src="img/galerie/entstehung/thumbs/IMG_3453.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3456.JPG" data-sub-html="<h4>IMG_3456.JPG - 27. Februar 2018</h4>")
+            img(alt="IMG_3456.JPG - 27. Februar 2018" src="img/galerie/entstehung/thumbs/IMG_3456.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3458.JPG" data-sub-html="<h4>IMG_3458.JPG - 02. März 2018</h4>")
+            img(alt="IMG_3458.JPG - 02. März 2018" src="img/galerie/entstehung/thumbs/IMG_3458.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3461.JPG" data-sub-html="<h4>IMG_3461.JPG - 02. März 2018</h4>")
+            img(alt="IMG_3461.JPG - 02. März 2018" src="img/galerie/entstehung/thumbs/IMG_3461.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3462.JPG" data-sub-html="<h4>IMG_3462.JPG - 04. März 2018</h4>")
+            img(alt="IMG_3462.JPG - 04. März 2018" src="img/galerie/entstehung/thumbs/IMG_3462.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3463.JPG" data-sub-html="<h4>IMG_3463.JPG - 04. März 2018</h4>")
+            img(alt="IMG_3463.JPG - 04. März 2018" src="img/galerie/entstehung/thumbs/IMG_3463.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3466.JPG" data-sub-html="<h4>Strohballenhaus wird mit Lehm verputzt - 04. März 2018</h4>")
+            img(alt="Strohballenhaus wird mit Lehm verputzt - 04. März 2018" src="img/galerie/entstehung/thumbs/IMG_3466.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3467.JPG" data-sub-html="<h4>IMG_3467.JPG - 04. März 2018</h4>")
+            img(alt="IMG_3467.JPG - 04. März 2018" src="img/galerie/entstehung/thumbs/IMG_3467.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3468.JPG" data-sub-html="<h4>IMG_3468.JPG - 04. März 2018</h4>")
+            img(alt="IMG_3468.JPG - 04. März 2018" src="img/galerie/entstehung/thumbs/IMG_3468.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3471.JPG" data-sub-html="<h4>IMG_3471.JPG - 06. März 2018</h4>")
+            img(alt="IMG_3471.JPG - 06. März 2018" src="img/galerie/entstehung/thumbs/IMG_3471.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3474.JPG" data-sub-html="<h4>IMG_3474.JPG - 06. März 2018</h4>")
+            img(alt="IMG_3474.JPG - 06. März 2018" src="img/galerie/entstehung/thumbs/IMG_3474.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3476.JPG" data-sub-html="<h4>IMG_3476.JPG - 06. März 2018</h4>")
+            img(alt="IMG_3476.JPG - 06. März 2018" src="img/galerie/entstehung/thumbs/IMG_3476.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3478.JPG" data-sub-html="<h4>IMG_3478.JPG - 06. März 2018</h4>")
+            img(alt="IMG_3478.JPG - 06. März 2018" src="img/galerie/entstehung/thumbs/IMG_3478.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3508.JPG" data-sub-html="<h4>IMG_3508.JPG - 10. März 2018</h4>")
+            img(alt="IMG_3508.JPG - 10. März 2018" src="img/galerie/entstehung/thumbs/IMG_3508.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3515.JPG" data-sub-html="<h4>IMG_3515.JPG - 12. März 2018</h4>")
+            img(alt="IMG_3515.JPG - 12. März 2018" src="img/galerie/entstehung/thumbs/IMG_3515.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3517.JPG" data-sub-html="<h4>IMG_3517.JPG - 13. März 2018</h4>")
+            img(alt="IMG_3517.JPG - 13. März 2018" src="img/galerie/entstehung/thumbs/IMG_3517.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3526.JPG" data-sub-html="<h4>IMG_3526.JPG - 14. März 2018</h4>")
+            img(alt="IMG_3526.JPG - 14. März 2018" src="img/galerie/entstehung/thumbs/IMG_3526.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3533.JPG" data-sub-html="<h4>IMG_3533.JPG - 15. März 2018</h4>")
+            img(alt="IMG_3533.JPG - 15. März 2018" src="img/galerie/entstehung/thumbs/IMG_3533.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3563.JPG" data-sub-html="<h4>IMG_3563.JPG - 04. April 2018</h4>")
+            img(alt="IMG_3563.JPG - 04. April 2018" src="img/galerie/entstehung/thumbs/IMG_3563.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3592.JPG" data-sub-html="<h4>IMG_3592.JPG - 03. Mai 2018</h4>")
+            img(alt="IMG_3592.JPG - 03. Mai 2018" src="img/galerie/entstehung/thumbs/IMG_3592.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3600.JPG" data-sub-html="<h4>IMG_3600.JPG - 09. Mai 2018</h4>")
+            img(alt="IMG_3600.JPG - 09. Mai 2018" src="img/galerie/entstehung/thumbs/IMG_3600.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3645.JPG" data-sub-html="<h4>IMG_3645.JPG - 24. Mai 2018</h4>")
+            img(alt="IMG_3645.JPG - 24. Mai 2018" src="img/galerie/entstehung/thumbs/IMG_3645.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3664.JPG" data-sub-html="<h4>IMG_3664.JPG - 24. Mai 2018</h4>")
+            img(alt="IMG_3664.JPG - 24. Mai 2018" src="img/galerie/entstehung/thumbs/IMG_3664.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3669.JPG" data-sub-html="<h4>IMG_3669.JPG - 24. Mai 2018</h4>")
+            img(alt="IMG_3669.JPG - 24. Mai 2018" src="img/galerie/entstehung/thumbs/IMG_3669.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3670.JPG" data-sub-html="<h4>IMG_3670.JPG - 24. Mai 2018</h4>")
+            img(alt="IMG_3670.JPG - 24. Mai 2018" src="img/galerie/entstehung/thumbs/IMG_3670.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3671.JPG" data-sub-html="<h4>IMG_3671.JPG - 24. Mai 2018</h4>")
+            img(alt="IMG_3671.JPG - 24. Mai 2018" src="img/galerie/entstehung/thumbs/IMG_3671.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3672.JPG" data-sub-html="<h4>IMG_3672.JPG - 24. Mai 2018</h4>")
+            img(alt="IMG_3672.JPG - 24. Mai 2018" src="img/galerie/entstehung/thumbs/IMG_3672.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3675.JPG" data-sub-html="<h4>IMG_3675.JPG - 24. Mai 2018</h4>")
+            img(alt="IMG_3675.JPG - 24. Mai 2018" src="img/galerie/entstehung/thumbs/IMG_3675.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3679.JPG" data-sub-html="<h4>IMG_3679.JPG - 24. Mai 2018</h4>")
+            img(alt="IMG_3679.JPG - 24. Mai 2018" src="img/galerie/entstehung/thumbs/IMG_3679.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3688.JPG" data-sub-html="<h4>IMG_3688.JPG - 24. Mai 2018</h4>")
+            img(alt="IMG_3688.JPG - 24. Mai 2018" src="img/galerie/entstehung/thumbs/IMG_3688.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3702.JPG" data-sub-html="<h4>IMG_3702.JPG - 29. Mai 2018</h4>")
+            img(alt="IMG_3702.JPG - 29. Mai 2018" src="img/galerie/entstehung/thumbs/IMG_3702.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3703.JPG" data-sub-html="<h4>IMG_3703.JPG - 29. Mai 2018</h4>")
+            img(alt="IMG_3703.JPG - 29. Mai 2018" src="img/galerie/entstehung/thumbs/IMG_3703.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3712.JPG" data-sub-html="<h4>IMG_3712.JPG - 31. Mai 2018</h4>")
+            img(alt="IMG_3712.JPG - 31. Mai 2018" src="img/galerie/entstehung/thumbs/IMG_3712.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3713.JPG" data-sub-html="<h4>IMG_3713.JPG - 31. Mai 2018</h4>")
+            img(alt="IMG_3713.JPG - 31. Mai 2018" src="img/galerie/entstehung/thumbs/IMG_3713.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3717.JPG" data-sub-html="<h4>IMG_3717.JPG - 31. Mai 2018</h4>")
+            img(alt="IMG_3717.JPG - 31. Mai 2018" src="img/galerie/entstehung/thumbs/IMG_3717.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3720.JPG" data-sub-html="<h4>IMG_3720.JPG - 02. Juni 2018</h4>")
+            img(alt="IMG_3720.JPG - 02. Juni 2018" src="img/galerie/entstehung/thumbs/IMG_3720.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3721.JPG" data-sub-html="<h4>IMG_3721.JPG - 02. Juni 2018</h4>")
+            img(alt="IMG_3721.JPG - 02. Juni 2018" src="img/galerie/entstehung/thumbs/IMG_3721.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3723.JPG" data-sub-html="<h4>IMG_3723.JPG - 02. Juni 2018</h4>")
+            img(alt="IMG_3723.JPG - 02. Juni 2018" src="img/galerie/entstehung/thumbs/IMG_3723.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3724.JPG" data-sub-html="<h4>IMG_3724.JPG - 02. Juni 2018</h4>")
+            img(alt="IMG_3724.JPG - 02. Juni 2018" src="img/galerie/entstehung/thumbs/IMG_3724.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3725.JPG" data-sub-html="<h4>IMG_3725.JPG - 02. Juni 2018</h4>")
+            img(alt="IMG_3725.JPG - 02. Juni 2018" src="img/galerie/entstehung/thumbs/IMG_3725.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3726.JPG" data-sub-html="<h4>IMG_3726.JPG - 02. Juni 2018</h4>")
+            img(alt="IMG_3726.JPG - 02. Juni 2018" src="img/galerie/entstehung/thumbs/IMG_3726.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3727.JPG" data-sub-html="<h4>IMG_3727.JPG - 02. Juni 2018</h4>")
+            img(alt="IMG_3727.JPG - 02. Juni 2018" src="img/galerie/entstehung/thumbs/IMG_3727.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3728.JPG" data-sub-html="<h4>IMG_3728.JPG - 02. Juni 2018</h4>")
+            img(alt="IMG_3728.JPG - 02. Juni 2018" src="img/galerie/entstehung/thumbs/IMG_3728.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3747.JPG" data-sub-html="<h4>IMG_3747.JPG - 20. Juni 2018</h4>")
+            img(alt="IMG_3747.JPG - 20. Juni 2018" src="img/galerie/entstehung/thumbs/IMG_3747.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3752.JPG" data-sub-html="<h4>IMG_3752.JPG - 22. Juni 2018</h4>")
+            img(alt="IMG_3752.JPG - 22. Juni 2018" src="img/galerie/entstehung/thumbs/IMG_3752.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3753.JPG" data-sub-html="<h4>IMG_3753.JPG - 24. Juni 2018</h4>")
+            img(alt="IMG_3753.JPG - 24. Juni 2018" src="img/galerie/entstehung/thumbs/IMG_3753.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3754.JPG" data-sub-html="<h4>IMG_3754.JPG - 27. Juni 2018</h4>")
+            img(alt="IMG_3754.JPG - 27. Juni 2018" src="img/galerie/entstehung/thumbs/IMG_3754.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3760.JPG" data-sub-html="<h4>IMG_3760.JPG - 02. Juli 2018</h4>")
+            img(alt="IMG_3760.JPG - 02. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3760.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3763.JPG" data-sub-html="<h4>IMG_3763.JPG - 02. Juli 2018</h4>")
+            img(alt="IMG_3763.JPG - 02. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3763.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3764.JPG" data-sub-html="<h4>IMG_3764.JPG - 02. Juli 2018</h4>")
+            img(alt="IMG_3764.JPG - 02. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3764.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3773.JPG" data-sub-html="<h4>IMG_3773.JPG - 02. Juli 2018</h4>")
+            img(alt="IMG_3773.JPG - 02. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3773.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3774.JPG" data-sub-html="<h4>IMG_3774.JPG - 02. Juli 2018</h4>")
+            img(alt="IMG_3774.JPG - 02. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3774.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3776.JPG" data-sub-html="<h4>IMG_3776.JPG - 02. Juli 2018</h4>")
+            img(alt="IMG_3776.JPG - 02. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3776.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3780.JPG" data-sub-html="<h4>IMG_3780.JPG - 02. Juli 2018</h4>")
+            img(alt="IMG_3780.JPG - 02. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3780.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3781.JPG" data-sub-html="<h4>IMG_3781.JPG - 02. Juli 2018</h4>")
+            img(alt="IMG_3781.JPG - 02. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3781.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3783.JPG" data-sub-html="<h4>IMG_3783.JPG - 02. Juli 2018</h4>")
+            img(alt="IMG_3783.JPG - 02. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3783.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3786.JPG" data-sub-html="<h4>IMG_3786.JPG - 02. Juli 2018</h4>")
+            img(alt="IMG_3786.JPG - 02. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3786.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3789.JPG" data-sub-html="<h4>IMG_3789.JPG - 02. Juli 2018</h4>")
+            img(alt="IMG_3789.JPG - 02. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3789.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3791.JPG" data-sub-html="<h4>IMG_3791.JPG - 02. Juli 2018</h4>")
+            img(alt="IMG_3791.JPG - 02. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3791.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3793.JPG" data-sub-html="<h4>IMG_3793.JPG - 02. Juli 2018</h4>")
+            img(alt="IMG_3793.JPG - 02. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3793.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3795.JPG" data-sub-html="<h4>IMG_3795.JPG - 02. Juli 2018</h4>")
+            img(alt="IMG_3795.JPG - 02. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3795.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3798.JPG" data-sub-html="<h4>IMG_3798.JPG - 02. Juli 2018</h4>")
+            img(alt="IMG_3798.JPG - 02. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3798.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3799.JPG" data-sub-html="<h4>IMG_3799.JPG - 02. Juli 2018</h4>")
+            img(alt="IMG_3799.JPG - 02. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3799.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3807.JPG" data-sub-html="<h4>IMG_3807.JPG - 08. Juli 2018</h4>")
+            img(alt="IMG_3807.JPG - 08. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3807.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3808.JPG" data-sub-html="<h4>IMG_3808.JPG - 08. Juli 2018</h4>")
+            img(alt="IMG_3808.JPG - 08. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3808.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3812.JPG" data-sub-html="<h4>IMG_3812.JPG - 11. Juli 2018</h4>")
+            img(alt="IMG_3812.JPG - 11. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3812.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3814.JPG" data-sub-html="<h4>IMG_3814.JPG - 11. Juli 2018</h4>")
+            img(alt="IMG_3814.JPG - 11. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3814.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3815.JPG" data-sub-html="<h4>IMG_3815.JPG - 11. Juli 2018</h4>")
+            img(alt="IMG_3815.JPG - 11. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3815.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3821.JPG" data-sub-html="<h4>IMG_3821.JPG - 11. Juli 2018</h4>")
+            img(alt="IMG_3821.JPG - 11. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3821.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3824.JPG" data-sub-html="<h4>IMG_3824.JPG - 11. Juli 2018</h4>")
+            img(alt="IMG_3824.JPG - 11. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3824.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3826.JPG" data-sub-html="<h4>IMG_3826.JPG - 15. Juli 2018</h4>")
+            img(alt="IMG_3826.JPG - 15. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3826.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3828.JPG" data-sub-html="<h4>IMG_3828.JPG - 15. Juli 2018</h4>")
+            img(alt="IMG_3828.JPG - 15. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3828.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3854.JPG" data-sub-html="<h4>IMG_3854.JPG - 20. Juli 2018</h4>")
+            img(alt="IMG_3854.JPG - 20. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3854.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3856.JPG" data-sub-html="<h4>IMG_3856.JPG - 20. Juli 2018</h4>")
+            img(alt="IMG_3856.JPG - 20. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3856.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3857.JPG" data-sub-html="<h4>IMG_3857.JPG - 20. Juli 2018</h4>")
+            img(alt="IMG_3857.JPG - 20. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3857.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3858.JPG" data-sub-html="<h4>IMG_3858.JPG - 21. Juli 2018</h4>")
+            img(alt="IMG_3858.JPG - 21. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3858.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3859.JPG" data-sub-html="<h4>IMG_3859.JPG - 21. Juli 2018</h4>")
+            img(alt="IMG_3859.JPG - 21. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3859.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3866.JPG" data-sub-html="<h4>IMG_3866.JPG - 30. Juli 2018</h4>")
+            img(alt="IMG_3866.JPG - 30. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3866.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3875.JPG" data-sub-html="<h4>IMG_3875.JPG - 30. Juli 2018</h4>")
+            img(alt="IMG_3875.JPG - 30. Juli 2018" src="img/galerie/entstehung/thumbs/IMG_3875.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3878.JPG" data-sub-html="<h4>IMG_3878.JPG - 03. August 2018</h4>")
+            img(alt="IMG_3878.JPG - 03. August 2018" src="img/galerie/entstehung/thumbs/IMG_3878.JPG")
+
+
+        a(href="img/galerie/sonstiges/IMG-20190602-WA0012.jpg" data-sub-html="<h4>IMG-20190602-WA0012.jpg</h4>")
+            img(alt="IMG-20190602-WA0012.jpg" src="img/galerie/sonstiges/thumbs/IMG-20190602-WA0012.jpg")
+
+
+        a(href="img/galerie/sonstiges/IMG-20190602-WA0014.jpg" data-sub-html="<h4>IMG-20190602-WA0014.jpg</h4>")
+            img(alt="IMG-20190602-WA0014.jpg" src="img/galerie/sonstiges/thumbs/IMG-20190602-WA0014.jpg")
+
+
+        a(href="img/galerie/sonstiges/IMG-20190602-WA0015.jpg" data-sub-html="<h4>IMG-20190602-WA0015.jpg</h4>")
+            img(alt="IMG-20190602-WA0015.jpg" src="img/galerie/sonstiges/thumbs/IMG-20190602-WA0015.jpg")
+
+
+        a(href="img/galerie/sonstiges/IMG-20190602-WA0016.jpg" data-sub-html="<h4>IMG-20190602-WA0016.jpg</h4>")
+            img(alt="IMG-20190602-WA0016.jpg" src="img/galerie/sonstiges/thumbs/IMG-20190602-WA0016.jpg")
+
+
+        a(href="img/galerie/sonstiges/IMG-20190602-WA0018.jpg" data-sub-html="<h4>IMG-20190602-WA0018.jpg</h4>")
+            img(alt="IMG-20190602-WA0018.jpg" src="img/galerie/sonstiges/thumbs/IMG-20190602-WA0018.jpg")
+
+
+        a(href="img/galerie/sonstiges/IMG-20190602-WA0019.jpg" data-sub-html="<h4>IMG-20190602-WA0019.jpg</h4>")
+            img(alt="IMG-20190602-WA0019.jpg" src="img/galerie/sonstiges/thumbs/IMG-20190602-WA0019.jpg")
+
+
+        a(href="img/galerie/sonstiges/IMG-20190602-WA0020.jpg" data-sub-html="<h4>IMG-20190602-WA0020.jpg</h4>")
+            img(alt="IMG-20190602-WA0020.jpg" src="img/galerie/sonstiges/thumbs/IMG-20190602-WA0020.jpg")
+
+
+        a(href="img/galerie/sonstiges/IMG-20190602-WA0022.jpg" data-sub-html="<h4>IMG-20190602-WA0022.jpg</h4>")
+            img(alt="IMG-20190602-WA0022.jpg" src="img/galerie/sonstiges/thumbs/IMG-20190602-WA0022.jpg")
+
+
+        a(href="img/galerie/sonstiges/IMG-20190602-WA0042.jpg" data-sub-html="<h4>IMG-20190602-WA0042.jpg</h4>")
+            img(alt="IMG-20190602-WA0042.jpg" src="img/galerie/sonstiges/thumbs/IMG-20190602-WA0042.jpg")
+
+
+        a(href="img/galerie/sonstiges/IMG-20190602-WA0044.jpg" data-sub-html="<h4>IMG-20190602-WA0044.jpg</h4>")
+            img(alt="IMG-20190602-WA0044.jpg" src="img/galerie/sonstiges/thumbs/IMG-20190602-WA0044.jpg")
+
+
+        a(href="img/galerie/sonstiges/IMG-20190603-WA0002.jpg" data-sub-html="<h4>IMG-20190603-WA0002.jpg</h4>")
+            img(alt="IMG-20190603-WA0002.jpg" src="img/galerie/sonstiges/thumbs/IMG-20190603-WA0002.jpg")
+
+
+
+        a(href="img/galerie/entstehung/IMG_3881.JPG" data-sub-html="<h4>IMG_3881.JPG - 04. August 2018</h4>")
+            img(alt="IMG_3881.JPG - 04. August 2018" src="img/galerie/entstehung/thumbs/IMG_3881.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3887.JPG" data-sub-html="<h4>IMG_3887.JPG - 13. August 2018</h4>")
+            img(alt="IMG_3887.JPG - 13. August 2018" src="img/galerie/entstehung/thumbs/IMG_3887.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3891.JPG" data-sub-html="<h4>IMG_3891.JPG - 13. August 2018</h4>")
+            img(alt="IMG_3891.JPG - 13. August 2018" src="img/galerie/entstehung/thumbs/IMG_3891.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3897.JPG" data-sub-html="<h4>IMG_3897.JPG - 19. August 2018</h4>")
+            img(alt="IMG_3897.JPG - 19. August 2018" src="img/galerie/entstehung/thumbs/IMG_3897.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3900.JPG" data-sub-html="<h4>IMG_3900.JPG - 26. August 2018</h4>")
+            img(alt="IMG_3900.JPG - 26. August 2018" src="img/galerie/entstehung/thumbs/IMG_3900.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3904.JPG" data-sub-html="<h4>IMG_3904.JPG - 26. August 2018</h4>")
+            img(alt="IMG_3904.JPG - 26. August 2018" src="img/galerie/entstehung/thumbs/IMG_3904.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3912.JPG" data-sub-html="<h4>IMG_3912.JPG - 26. August 2018</h4>")
+            img(alt="IMG_3912.JPG - 26. August 2018" src="img/galerie/entstehung/thumbs/IMG_3912.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3914.JPG" data-sub-html="<h4>IMG_3914.JPG - 26. August 2018</h4>")
+            img(alt="IMG_3914.JPG - 26. August 2018" src="img/galerie/entstehung/thumbs/IMG_3914.JPG")
+
+
+        a(href="img/galerie/entstehung/IMG_3915.JPG" data-sub-html="<h4>IMG_3915.JPG - 26. August 2018</h4>")
+            img(alt="IMG_3915.JPG - 26. August 2018" src="img/galerie/entstehung/thumbs/IMG_3915.JPG")
+
+        a(href="img/galerie/entstehung/2g4IMG_0009.JPG" data-sub-html="<h4>2g4IMG_0009.JPG - 06. September 2018</h4>")
+            img(alt="2g4IMG_0009.JPG - 06. September 2018" src="img/galerie/entstehung/thumbs/2g4IMG_0009.JPG")
+
+
+
+        a(href="img/galerie/entstehung/2aIMG-20190602-WA0021.jpg" data-sub-html="<h4>2aIMG-20190602-WA0021.jpg</h4>")
+            img(alt="2aIMG-20190602-WA0021.jpg" src="img/galerie/entstehung/thumbs/2aIMG-20190602-WA0021.jpg")
+
+
+        a(href="img/galerie/entstehung/2eIMG-20190602-WA0003.jpg" data-sub-html="<h4>2eIMG-20190602-WA0003.jpg</h4>")
+            img(alt="2eIMG-20190602-WA0003.jpg" src="img/galerie/entstehung/thumbs/2eIMG-20190602-WA0003.jpg")
+
+
+        a(href="img/galerie/entstehung/2fIMG-20190603-WA0001.jpg" data-sub-html="<h4>2fIMG-20190603-WA0001.jpg</h4>")
+            img(alt="2fIMG-20190603-WA0001.jpg" src="img/galerie/entstehung/thumbs/2fIMG-20190603-WA0001.jpg")
+
+
+        a(href="img/galerie/entstehung/4.jpg" data-sub-html="<h4>4.jpg</h4>")
+            img(alt="4.jpg" src="img/galerie/entstehung/thumbs/4.jpg")
+
+
+        a(href="img/galerie/entstehung/5.jpg" data-sub-html="<h4>5.jpg</h4>")
+            img(alt="5.jpg" src="img/galerie/entstehung/thumbs/5.jpg")
+
+
+        a(href="img/galerie/entstehung/6.jpg" data-sub-html="<h4>6.jpg</h4>")
+            img(alt="6.jpg" src="img/galerie/entstehung/thumbs/6.jpg")
+
+
+        a(href="img/galerie/entstehung/7IMG-20190602-WA0032.jpg" data-sub-html="<h4>7IMG-20190602-WA0032.jpg</h4>")
+            img(alt="7IMG-20190602-WA0032.jpg" src="img/galerie/entstehung/thumbs/7IMG-20190602-WA0032.jpg")
+
+
+        a(href="img/galerie/entstehung/8IMG-20190602-WA0043.jpg" data-sub-html="<h4>8IMG-20190602-WA0043.jpg</h4>")
+            img(alt="8IMG-20190602-WA0043.jpg" src="img/galerie/entstehung/thumbs/8IMG-20190602-WA0043.jpg")
+
+        a(href="img/galerie/entstehung/WhatsApp Image 2019-06-11 at 17.13.48.jpeg" data-sub-html="<h4>WhatsApp Image 2019-06-11 at 17.13.48.jpeg</h4>")
+            img(alt="WhatsApp Image 2019-06-11 at 17.13.48.jpeg" src="img/galerie/entstehung/thumbs/WhatsApp Image 2019-06-11 at 17.13.48.jpeg")
+
+    h2 Konstruktion eines Bambuslehmhauses
+    #gallery-bambus-lehmhaus
+
+        a(href="img/galerie/bambus-lehmhaus/0IMG-20190602-WA0046.jpg" data-sub-html="<h4>0IMG-20190602-WA0046.jpg</h4>")
+            img(alt="0IMG-20190602-WA0046.jpg" src="img/galerie/bambus-lehmhaus/thumbs/0IMG-20190602-WA0046.jpg")
+
+
+
+
+        a(href="img/galerie/bambus-lehmhaus/1IMG-20190602-WA0033.jpg" data-sub-html="<h4>1IMG-20190602-WA0033.jpg</h4>")
+            img(alt="1IMG-20190602-WA0033.jpg" src="img/galerie/bambus-lehmhaus/thumbs/1IMG-20190602-WA0033.jpg")
+
+
+        a(href="img/galerie/bambus-lehmhaus/2IMG-20190602-WA0031.jpg" data-sub-html="<h4>2IMG-20190602-WA0031.jpg</h4>")
+            img(alt="2IMG-20190602-WA0031.jpg" src="img/galerie/bambus-lehmhaus/thumbs/2IMG-20190602-WA0031.jpg")
+
+        a(href="img/galerie/bambus-lehmhaus/3IMG-20190602-WA0035.jpg" data-sub-html="<h4>3IMG-20190602-WA0035.jpg</h4>")
+            img(alt="3IMG-20190602-WA0035.jpg" src="img/galerie/bambus-lehmhaus/thumbs/3IMG-20190602-WA0035.jpg")
+
+
+        a(href="img/galerie/bambus-lehmhaus/4IMG-20190602-WA0039.jpg" data-sub-html="<h4>4IMG-20190602-WA0039.jpg</h4>")
+            img(alt="4IMG-20190602-WA0039.jpg" src="img/galerie/bambus-lehmhaus/thumbs/4IMG-20190602-WA0039.jpg")
+
+
+        a(href="img/galerie/bambus-lehmhaus/5IMG-20190602-WA0041.jpg" data-sub-html="<h4>5IMG-20190602-WA0041.jpg</h4>")
+            img(alt="5IMG-20190602-WA0041.jpg" src="img/galerie/bambus-lehmhaus/thumbs/5IMG-20190602-WA0041.jpg")
+
+
+        a(href="img/galerie/bambus-lehmhaus/5bIMG-20190602-WA0040.jpg" data-sub-html="<h4>5bIMG-20190602-WA0040.jpg</h4>")
+            img(alt="5bIMG-20190602-WA0040.jpg" src="img/galerie/bambus-lehmhaus/thumbs/5bIMG-20190602-WA0040.jpg")
+
+
+        a(href="img/galerie/bambus-lehmhaus/6aIMG-20190602-WA0013.jpg" data-sub-html="<h4>6aIMG-20190602-WA0013.jpg</h4>")
+            img(alt="6aIMG-20190602-WA0013.jpg" src="img/galerie/bambus-lehmhaus/thumbs/6aIMG-20190602-WA0013.jpg")
+
+
+        a(href="img/galerie/bambus-lehmhaus/6bIMG-20190602-WA0034.jpg" data-sub-html="<h4>6bIMG-20190602-WA0034.jpg</h4>")
+            img(alt="6bIMG-20190602-WA0034.jpg" src="img/galerie/bambus-lehmhaus/thumbs/6bIMG-20190602-WA0034.jpg")
+
+
+        a(href="img/galerie/bambus-lehmhaus/6cIMG-20190602-WA0038.jpg" data-sub-html="<h4>6cIMG-20190602-WA0038.jpg</h4>")
+            img(alt="6cIMG-20190602-WA0038.jpg" src="img/galerie/bambus-lehmhaus/thumbs/6cIMG-20190602-WA0038.jpg")
+
+
+        a(href="img/galerie/bambus-lehmhaus/7IMG-20190602-WA0000.jpg" data-sub-html="<h4>7IMG-20190602-WA0000.jpg</h4>")
+            img(alt="7IMG-20190602-WA0000.jpg" src="img/galerie/bambus-lehmhaus/thumbs/7IMG-20190602-WA0000.jpg")
+
+
+        a(href="img/galerie/bambus-lehmhaus/8IMG-20190602-WA0001.jpg" data-sub-html="<h4>8IMG-20190602-WA0001.jpg</h4>")
+            img(alt="8IMG-20190602-WA0001.jpg" src="img/galerie/bambus-lehmhaus/thumbs/8IMG-20190602-WA0001.jpg")
+
+
+        a(href="img/galerie/bambus-lehmhaus/9IMG-20190602-WA0002.jpg" data-sub-html="<h4>9IMG-20190602-WA0002.jpg</h4>")
+            img(alt="9IMG-20190602-WA0002.jpg" src="img/galerie/bambus-lehmhaus/thumbs/9IMG-20190602-WA0002.jpg")
+
+        a(href="img/galerie/bambus-lehmhaus/10IMG-20190602-WA0007.jpg" data-sub-html="<h4>10IMG-20190602-WA0007.jpg</h4>")
+            img(alt="10IMG-20190602-WA0007.jpg" src="img/galerie/bambus-lehmhaus/thumbs/10IMG-20190602-WA0007.jpg")
+
+
+        a(href="img/galerie/bambus-lehmhaus/11IMG-20190602-WA0008.jpg" data-sub-html="<h4>11IMG-20190602-WA0008.jpg</h4>")
+            img(alt="11IMG-20190602-WA0008.jpg" src="img/galerie/bambus-lehmhaus/thumbs/11IMG-20190602-WA0008.jpg")
+
+
+        a(href="img/galerie/bambus-lehmhaus/12IMG-20190602-WA0010.jpg" data-sub-html="<h4>12IMG-20190602-WA0010.jpg</h4>")
+            img(alt="12IMG-20190602-WA0010.jpg" src="img/galerie/bambus-lehmhaus/thumbs/12IMG-20190602-WA0010.jpg")
+
+    h2 Bambuslöffel-Workshop
+    #gallery-bambus-lffel-workshop
+
+        a(href="img/galerie/bambus-löffel-workshop/IMG-20190602-WA0006.jpg" data-sub-html="<h4>IMG-20190602-WA0006.jpg</h4>")
+            img(alt="IMG-20190602-WA0006.jpg" src="img/galerie/bambus-löffel-workshop/thumbs/IMG-20190602-WA0006.jpg")
+
+
+        a(href="img/galerie/bambus-löffel-workshop/IMG-20190602-WA0011.jpg" data-sub-html="<h4>IMG-20190602-WA0011.jpg</h4>")
+            img(alt="IMG-20190602-WA0011.jpg" src="img/galerie/bambus-löffel-workshop/thumbs/IMG-20190602-WA0011.jpg")
+
+
+        a(href="img/galerie/bambus-löffel-workshop/IMG-20190602-WA0025.jpg" data-sub-html="<h4>IMG-20190602-WA0025.jpg</h4>")
+            img(alt="IMG-20190602-WA0025.jpg" src="img/galerie/bambus-löffel-workshop/thumbs/IMG-20190602-WA0025.jpg")
+
+    h2 Rohe Kost
+    #gallery-essen
+
+        a(href="img/galerie/essen/IMG-20190602-WA0004.jpg" data-sub-html="<h4>IMG-20190602-WA0004.jpg</h4>")
+            img(alt="IMG-20190602-WA0004.jpg" src="img/galerie/essen/thumbs/IMG-20190602-WA0004.jpg")
+
+
+        a(href="img/galerie/essen/IMG-20190602-WA0005.jpg" data-sub-html="<h4>IMG-20190602-WA0005.jpg</h4>")
+            img(alt="IMG-20190602-WA0005.jpg" src="img/galerie/essen/thumbs/IMG-20190602-WA0005.jpg")
+
+
+        a(href="img/galerie/essen/IMG-20190602-WA0028.jpg" data-sub-html="<h4>IMG-20190602-WA0028.jpg</h4>")
+            img(alt="IMG-20190602-WA0028.jpg" src="img/galerie/essen/thumbs/IMG-20190602-WA0028.jpg")
+
+
+        a(href="img/galerie/essen/IMG-20190602-WA0036.jpg" data-sub-html="<h4>IMG-20190602-WA0036.jpg</h4>")
+            img(alt="IMG-20190602-WA0036.jpg" src="img/galerie/essen/thumbs/IMG-20190602-WA0036.jpg")
+
+
+        a(href="img/galerie/essen/IMG-20190602-WA0047.jpg" data-sub-html="<h4>IMG-20190602-WA0047.jpg</h4>")
+            img(alt="IMG-20190602-WA0047.jpg" src="img/galerie/essen/thumbs/IMG-20190602-WA0047.jpg")
+
+    h2 Hochbeet
+    #gallery-hochbeet
+
+        a(href="img/galerie/hochbeet/0IMG-20190602-WA0037.jpg" data-sub-html="<h4>0IMG-20190602-WA0037.jpg</h4>")
+            img(alt="0IMG-20190602-WA0037.jpg" src="img/galerie/hochbeet/thumbs/0IMG-20190602-WA0037.jpg")
+
+
+        a(href="img/galerie/hochbeet/1IMG-20190602-WA0026.jpg" data-sub-html="<h4>1IMG-20190602-WA0026.jpg</h4>")
+            img(alt="1IMG-20190602-WA0026.jpg" src="img/galerie/hochbeet/thumbs/1IMG-20190602-WA0026.jpg")
+
+
+        a(href="img/galerie/hochbeet/2IMG-20190602-WA0029.jpg" data-sub-html="<h4>2IMG-20190602-WA0029.jpg</h4>")
+            img(alt="2IMG-20190602-WA0029.jpg" src="img/galerie/hochbeet/thumbs/2IMG-20190602-WA0029.jpg")
+
+
+        a(href="img/galerie/hochbeet/3IMG-20190602-WA0030.jpg" data-sub-html="<h4>3IMG-20190602-WA0030.jpg</h4>")
+            img(alt="3IMG-20190602-WA0030.jpg" src="img/galerie/hochbeet/thumbs/3IMG-20190602-WA0030.jpg")
+
+
+        a(href="img/galerie/hochbeet/4IMG-20190602-WA0023.jpg" data-sub-html="<h4>4IMG-20190602-WA0023.jpg</h4>")
+            img(alt="4IMG-20190602-WA0023.jpg" src="img/galerie/hochbeet/thumbs/4IMG-20190602-WA0023.jpg")
